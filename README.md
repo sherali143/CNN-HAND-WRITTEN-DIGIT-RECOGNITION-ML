@@ -1,6 +1,4 @@
-Here’s a polished and detailed description for your GitHub repository:
 
----
 
 ## CNN-HAND-WRITTEN-DIGIT-RECOGNITION-ML
 
